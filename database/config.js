@@ -10,7 +10,7 @@
 
 var config = {
     host :"127.0.0.1",
-    dbname:"test",
+    dbname:"todos",
     port:27017,
     username:"",
     password:""
